@@ -1,3 +1,3 @@
 # Autism Detection
 
-Just practice mini project to implement logistic regression!
+Just a practice mini project to implement logistic regression!
